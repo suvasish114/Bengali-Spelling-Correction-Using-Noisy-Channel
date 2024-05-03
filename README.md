@@ -1,1 +1,1 @@
-# Bengali-Spelling-Correction-Using-Noisy-Channel
+## Bengali Spelling Correction Using Noisy Channel
